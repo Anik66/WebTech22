@@ -1,0 +1,38 @@
+[
+    {
+        "first name": "Nazmun",
+        "last name": "Nahar",
+        "password": "123",
+        "gender": "male",
+        "age   ": "34",
+        "department": "dfdfd",
+        "address": "Nikunja-2,road-1\/b,house-4,dhaka\r\n",
+        "position": "dfdf",
+        "date": "2022-11-06",
+        "email": "anika.viki987@gmail.com",
+        "Fileupload": "application\/pdf",
+        "number": "01833342067",
+        "chamber": [
+            "Dhaka"
+        ]
+    },
+    {
+        "first name": "Nazmun",
+        "last name": "Nahar",
+        "password": "123",
+        "gender": "male",
+        "age   ": "34",
+        "department": "dfdfd",
+        "address": "Nikunja-2,road-1\/b,house-4,dhaka\r\n",
+        "position": "dfdf",
+        "date": "2022-11-06",
+        "email": "anika.viki987@gmail.com",
+        "Fileupload": "application\/pdf",
+        "number": "01833342067",
+        "chamber": [
+            "Dhaka",
+            "Chittagong"
+        ]
+    }
+   
+]
