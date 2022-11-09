@@ -1,0 +1,53 @@
+[
+    {
+        "first_name": "anik",
+        "last_name": "das",
+        "password": "441",
+        "gender": "male",
+        "age   ": "23",
+        "department": "vg",
+        "address": "anik",
+        "position": "intern",
+        "date": "2001-01-02",
+        "email": "sayem@mail",
+        "Fileupload": null,
+        "number": "+8801314035266",
+        "chamber": [
+            "Dhaka"
+        ]
+    },
+    {
+        "first_name": "sayem",
+        "last_name": "khan",
+        "password": "123",
+        "gender": "male",
+        "age   ": "24",
+        "department": "physician",
+        "address": "Dhaka,bangladesh",
+        "position": "intern",
+        "date": "2000-01-09",
+        "email": "sayem@mail",
+        "Fileupload": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "number": "+8801314035266",
+        "chamber": [
+            "Dhaka"
+        ]
+    },
+    {
+        "first_name": "anika",
+        "last_name": "nazmun",
+        "password": "344",
+        "gender": "male",
+        "age   ": "22",
+        "department": "physician",
+        "address": "dhaka,uttara",
+        "position": "intern",
+        "date": "2001-01-02",
+        "email": "anika@mail",
+        "Fileupload": "image\/jpeg",
+        "number": "0161315767",
+        "chamber": [
+            "Dhaka"
+        ]
+    }
+]
